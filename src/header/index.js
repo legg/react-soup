@@ -11,6 +11,9 @@ const Header = () => (
             <li>Create-react-app</li>
             <li>Stylus-loader and milligram-stylus</li>
             <li>React-router</li>
+            <li>React-router-redux</li>
+            <li>React-redux</li>
+            <li>Redux</li>
         </ul>
     </header>
 )

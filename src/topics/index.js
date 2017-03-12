@@ -1,5 +1,6 @@
 import React from 'react'
-import {Link, Route} from 'react-router-dom'
+import {Route} from 'react-router-dom'
+import {Link} from '../navigation'
 import Topic from './Topic'
 
 const Topics = ({match}) => (

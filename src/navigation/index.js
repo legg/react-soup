@@ -1,6 +1,6 @@
 import React from 'react'
-import {Link} from 'react-router-dom'
 import './Navigation.styl'
+import Link from './RLink'
 
 const Navigation = () => (
     <nav>
@@ -13,3 +13,5 @@ const Navigation = () => (
 )
 
 export default Navigation
+
+export {Link}
